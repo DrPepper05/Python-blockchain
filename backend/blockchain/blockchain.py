@@ -12,7 +12,7 @@ class Blockchain:
 
 def main():
     blockchain = Blockchain()
-    blockchain.add_block('cola')
+    blockchain.add_block('hello Bober')
     blockchain.add_block('pepsi')
     print(blockchain)
 
